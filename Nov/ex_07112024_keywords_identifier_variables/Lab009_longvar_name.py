@@ -1,0 +1,2 @@
+long_var_name_create_here="preksha"
+print(long_var_name_create_here)
